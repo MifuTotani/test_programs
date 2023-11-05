@@ -5,7 +5,7 @@ import chromedriver_binary
 from bs4 import BeautifulSoup
 import time
 from selenium.webdriver.common.by import By
-SLEEP = 3
+SLEEP = 0.5
 
 
 #引数確認
